@@ -1,6 +1,10 @@
 class Table:
     bill = list()
-
+    # F WORD
+    # G WORD
+    # F SPOT
+    # F STOP
+    
     def __init__(self, tab_num):
         self.tab_num = tab_num
         self.bill = []
